@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0ri0546" alt="0ri0546" /></a> </p>
 
-- 🔭 I’m currently working on [Projet IA](https://github.com/dark-dylan-93220/ProjetIA)
+- 🔭 I’m currently working on [Mordek's website](https://github.com/0ri0546/MordekDrums)
 
-- 🌱 I’m currently learning **C++, SFML library**
+- 🌱 I’m currently learning **C++, SFML library, JS (for websites)**
 
-- 👯 my latest project [Projet IA](https://github.com/dark-dylan-93220/ProjetIA)
+- 👯 my latest project [Zenith Bloom](https://github.com/0ri0546/Zenith-Bloom---Projet-)
 
 - 💬 Ask me about **whatever you want**
 
