@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Marcucci</h1>
-<h3 align="center">A passionate student in the field of video game development in France</h3>
+<h3 align="center">A passionate student in the field of video game/website development in France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0ri0546&label=Profile%20views&color=0e75b6&style=flat" alt="0ri0546" /> </p>
 
