@@ -16,9 +16,9 @@
 
 - 📫 How to reach me **lmarcucci@gaming.tech**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0ri0546&show_icons=true&locale=en&layout=compact" alt="0ri0546" width="480" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0ri0546&show_icons=true&locale=en&layout=compact" alt="0ri0546" width="480" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=0ri0546&" alt="0ri0546" width="480" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0ri0546&" alt="0ri0546" width="480" /></p>
 <br clear="both"/>
 
 <h3 align="center">Connect with me:</h3>
