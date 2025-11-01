@@ -21,11 +21,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0ri0546" alt="0ri0546" /></a> </p>
 
-- 🔭 I’m currently working on [Mordek's website](https://github.com/0ri0546/MordekDrums)
+- 🔭 I’m currently working on [Runner 2D ](https://github.com/pikapuche/THE-PINK-PARADOX) ! 
 
 - 🌱 I’m currently learning **C++, SFML library, JS (for websites)**
 
-- 👯 my latest project [Zenith Bloom](https://github.com/0ri0546/Zenith-Bloom---Projet-)
+- 👯 my latest project [Hello kitty Breakout](https://github.com/GamingCampus-MillieBourgois-25-26/3d-geometry-hello-kitty) ! 
 
 - 💬 Ask me about **whatever you want**
 
