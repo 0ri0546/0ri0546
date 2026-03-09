@@ -17,9 +17,7 @@
   <img src="https://img.shields.io/badge/Open%20Source-3FB950?logo=github&logoColor=white" alt="Open Source" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=0ri0546&label=Profile%20views&color=0e75b6&style=flat" alt="0ri0546" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0ri0546" alt="0ri0546" /></a> </p>
+---
 
 - 🔭 I’m currently working on [Carnaval Engine 3D](https://github.com/GamingCampus-MillieBourgois-25-26/moteur-3d-carnaval) ! 
 
@@ -33,7 +31,7 @@
 
 - My [Portfolio](https://0ri0546.github.io/Portfolio/)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0ri0546&show_icons=true&locale=en&layout=compact" alt="0ri0546" width="480" /></p>
+--- 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
