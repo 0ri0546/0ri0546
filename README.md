@@ -21,15 +21,17 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0ri0546" alt="0ri0546" /></a> </p>
 
-- 🔭 I’m currently working on [Runner 2D ](https://github.com/pikapuche/THE-PINK-PARADOX) ! 
+- 🔭 I’m currently working on [Carnaval Engine 3D](https://github.com/GamingCampus-MillieBourgois-25-26/moteur-3d-carnaval) ! 
 
 - 🌱 I’m currently learning **C++, SFML library, JS (for websites)**
 
-- 👯 my latest project [Hello kitty Breakout](https://github.com/GamingCampus-MillieBourgois-25-26/3d-geometry-hello-kitty) ! 
+- 👯 my latest project [Swords in Blender](https://github.com/0ri0546/SwordsBlender) ! 
 
 - 💬 Ask me about **whatever you want**
 
 - 📫 How to reach me **lmarcucci@gaming.tech**
+
+- My [Portfolio](https://0ri0546.github.io/Portfolio/)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0ri0546&show_icons=true&locale=en&layout=compact" alt="0ri0546" width="480" /></p>
 
