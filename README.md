@@ -19,11 +19,11 @@
 
 ---
 
-- 🔭 I’m currently working on [Carnaval Engine 3D](https://github.com/GamingCampus-MillieBourgois-25-26/moteur-3d-carnaval) ! 
+- 🔭 I’m currently working on [MythicRPG](https://0ri0546.github.io/MythicRPG-Wiki/) ! 
 
-- 🌱 I’m currently learning **C++, SFML library, JS (for websites)**
+- 🌱 I’m currently learning **PostgreSQL, ASM, JS**
 
-- 👯 my latest project [Swords in Blender](https://github.com/0ri0546/SwordsBlender) ! 
+- 👯 my latest project is [Calendar](https://github.com/0ri0546/Calendar) ! 
 
 - 💬 Ask me about **whatever you want**
 
